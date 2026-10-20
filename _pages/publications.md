@@ -2,7 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 Publication details and forthcoming status follow my [CV](/files/Rui_Huang_CV_2026.pdf){:target="_blank" rel="noopener noreferrer"}.

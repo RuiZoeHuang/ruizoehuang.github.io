@@ -2,7 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 My research examines chronic pain and social inequality over the life course, with attention to the institutional contexts that shape health.

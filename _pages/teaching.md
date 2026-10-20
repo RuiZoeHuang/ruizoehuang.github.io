@@ -2,7 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 My teaching experience includes serving as an instructor and teaching assistant at the University at Buffalo.
