@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication details and forthcoming status follow my [CV](/cv/).
+Publication details and forthcoming status follow my [CV](/files/Rui_Huang_CV_2026.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 ## Peer-reviewed articles
 

@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-For research inquiries and collaboration, please use the contact details listed in my [CV](/cv/).
+For research inquiries and collaboration, please use the contact details listed in my [CV](/files/Rui_Huang_CV_2026.pdf){:target="_blank" rel="noopener noreferrer"}.
 
-[CV](/cv/){: .btn .btn--primary}
+[CV](/files/Rui_Huang_CV_2026.pdf){:target="_blank" rel="noopener noreferrer"}{: .btn .btn--primary}
