@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Huang"
+title                    : "Rui (Zoe) Huang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Rui Huang"
+name                     : "Rui (Zoe) Huang"
 description              : "Medical sociologist studying chronic pain, social inequality, and health over the life course."
 url                      : "https://ruizoehuang.github.io"
 baseurl                  : ""
@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Huang"
+  name             : "Rui (Zoe) Huang"
   avatar           : "/assets/images/rui-huang.webp"
   bio              : "Medical sociologist\n\nPostdoctoral Fellow, Seattle Children’s Research Institute"
   location         : "Seattle, Washington"

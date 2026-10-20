@@ -29,13 +29,13 @@ I use population surveys and longitudinal data, drawing on research in the Unite
 Huang, Rui, et al. (Forthcoming). *Journal of Health and Social Behavior*.
 
 **Managing Existing Pain: Predicting Pain Progression and Recovery Using Machine Learning Approaches.**  
-Sun, Feinuo, Akib Zaman, and Rui Huang. (Forthcoming). *Annals of Epidemiology*.
+Sun, Feinuo, Akib Zaman, and Rui (Zoe) Huang. (Forthcoming). *Annals of Epidemiology*.
 
 **Chronic Pain Disparities by Sexual Identity and Sex/Gender: Intersectional Patterns and Pathways in a Nationally Representative US Sample.**  
 Zajacova, Anna, et al. (Forthcoming). *American Journal of Public Health*.
 
 **Racial-Ethnic Differences in Healthcare Experience Among Middle-Aged and Older Adults in the United States: Evidence from Four Waves of the Health and Retirement Study.**  
-Yuan, Yaqi, Rui Huang, and Yulin Yang. (Forthcoming). *Journal of Aging and Health*.
+Yuan, Yaqi, Rui (Zoe) Huang, and Yulin Yang. (Forthcoming). *Journal of Aging and Health*.
 
 **Country-Level Gender Inequality and Sex Disparities in Adolescent Chronic Pain: A 47-Country Analysis.**  
 Li, Rui, et al. (2026). *Preventive Medicine*. [DOI](https://doi.org/10.1016/j.ypmed.2026.108495)
