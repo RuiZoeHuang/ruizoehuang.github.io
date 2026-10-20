@@ -118,9 +118,12 @@ author:
   location         : "Seattle, Washington"
   email            :
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RuiZoeHuang"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=eP0pIr4AAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-9945-4859"
 
 
 # Site Footer
