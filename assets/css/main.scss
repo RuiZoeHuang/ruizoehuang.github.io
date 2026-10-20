@@ -49,3 +49,6 @@ body { background: #fff; color: #242424; }
   .academic-profile { display: block; }
   .academic-profile .author__avatar img { width: 170px; }
 }
+
+/* Inner pages use the full content area without a reserved profile column. */
+#main.no-profile-sidebar > .page { float: none; width: 100%; max-width: 1000px; margin-left: auto; margin-right: auto; padding-right: 0; }
