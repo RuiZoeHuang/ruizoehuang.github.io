@@ -98,7 +98,11 @@ author_profile: false
 </section>
 <section id="work-in-progress" class="research-topic" aria-labelledby="work-in-progress-heading">
 <h2 id="work-in-progress-heading">Working-in-progress</h2>
-<p>For current working papers, please see my <a href="/files/Rui_Huang_CV_2026.pdf" target="_blank" rel="noopener noreferrer">CV</a>.</p>
+<article class="research-block"><h3>Breaking the Long Arm of Childhood: How European Welfare States Shape the Association Between Childhood Disadvantage and Later-Life Pain</h3><p class="research-publication">Under review</p></article>
+<article class="research-block"><h3>Stress resilience or stress proliferation? The impact of life course cumulative stress on chronic pain, interference, and multisite pain</h3><p class="research-publication">Manuscript available</p></article>
+<article class="research-block"><h3>Human-Coded Reference vs. GPT-Based Models in Data Extraction for a Scoping Review of Reviews: Evaluating Accuracy Across Review and Task Types</h3><p class="research-publication">Revise and resubmit</p></article>
+<article class="research-block"><h3>Socioeconomic Status and Healthcare Satisfaction among Middle-Aged and Older US Adults: A Mediation Analysis</h3><p class="research-publication">Under review</p></article>
+<article class="research-block"><h3>One country, two worlds: Hukou as an institutional context shaping hypertension management in China</h3><p class="research-publication">Work in progress</p></article>
 </section>
 <p class="research-cv-link"><a href="/files/Rui_Huang_CV_2026.pdf" target="_blank" rel="noopener noreferrer">Full publication list and book chapters in my CV ↗</a></p>
 </div>
