@@ -177,7 +177,7 @@ body { background: #fff; color: #242424; }
 .page__content .research-gallery-card h2 { font: 700 23px/1.45 "Noto Serif", Georgia, serif; border: none; padding: 0; margin: 0; }
 .research-article-list { max-width: 850px; margin: 26px auto 0; font: 16px/1.8 "Noto Serif", Georgia, serif; }
 .research-theme-intro { color: #646d70; margin-bottom: 28px; }
-.research-article-list .research-publication { font: 16px/1.7 "Noto Serif", Georgia, serif; color: #111; margin-bottom: 26px; }
+.research-article-list .research-publication { font: italic 16px/1.7 "Noto Serif", Georgia, serif; color: #111; margin-bottom: 26px; }
 @media (max-width: 650px) {
  .research-gallery { grid-template-columns: minmax(0,1fr); gap: 22px; }
  .research-card-art img { height: 220px; }
