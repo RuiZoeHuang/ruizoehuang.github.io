@@ -82,6 +82,34 @@ body { background: #fff; color: #242424; }
   .academic-profile .author__avatar img { width: 190px; }
 }
 
+/* Soft, minimal sans-serif typography on the Teaching page only. */
+.teaching-page .page__title {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #353a3d;
+}
+.teaching-page .page__title a {
+  color: inherit;
+}
+.teaching-page .page__content {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  font-size: 0.97rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4a5054;
+}
+.teaching-page .page__content h2 {
+  font-family: inherit;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #353a3d;
+}
+.teaching-page .page__content strong {
+  font-weight: 600;
+  color: #42474b;
+}
+
 /* Compact, single-spaced teaching assistant course list. */
 .teaching-course-list {
   line-height: 1.2;
