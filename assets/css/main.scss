@@ -29,6 +29,15 @@ body { background: #fff; color: #242424; }
   letter-spacing: 0;
   margin-bottom: 1rem;
 }
+/* Chinese name sits beside the homepage heading, in matching serif typography. */
+#main:not(.no-profile-sidebar) .homepage-chinese-name {
+  display: inline-block;
+  margin-left: 0.55em;
+  font-family: "Songti SC", "STSong", "Noto Serif CJK SC", "SimSun", serif;
+  font-size: 1em;
+  font-weight: 600;
+  white-space: nowrap;
+}
 #main:not(.no-profile-sidebar) .page__content .homepage-introduction {
   font-family: "Source Serif 4", Georgia, serif;
   font-size: 0.96rem;
