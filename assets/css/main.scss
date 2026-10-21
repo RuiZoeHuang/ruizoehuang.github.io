@@ -64,7 +64,11 @@ body { background: #fff; color: #242424; }
 .academic-profile .author__name { margin-bottom: .6rem; font-family: Georgia, serif; font-size: 1.15rem; font-weight: 500; }
 .academic-profile .author__bio { font: .75rem/1.7 Arial, sans-serif; color: #585f63; }
 .profile-location { color: #767d80; font: .68rem/1.5 Arial, sans-serif; }
-.page__footer { background: #f7f7f5; color: #6f7476; }
+/* No visible site footer, including on research and teaching pages. */
+#footer.page__footer,
+.page__footer {
+  display: none !important;
+}
 @media (min-width: 64em) {
   .sidebar { width: 290px; }
   .page { width: calc(100% - 345px); padding-right: 0; }
