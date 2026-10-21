@@ -11,12 +11,10 @@ author_profile: false
 
 ## Teaching assistant
 
-**SOC504:** Basic Statistics for the Social Science (graduate level)
-
-**SOC101:** Introduction to Sociology
-
-**SOC322:** Medical Sociology
-
-**SOC311:** Drugs & Society
-
-**SOC357:** Race, Crime & Criminal Justice
+<div class="teaching-course-list">
+  <div class="teaching-course"><strong>SOC504:</strong> Basic Statistics for the Social Science (graduate level)</div>
+  <div class="teaching-course"><strong>SOC101:</strong> Introduction to Sociology</div>
+  <div class="teaching-course"><strong>SOC322:</strong> Medical Sociology</div>
+  <div class="teaching-course"><strong>SOC311:</strong> Drugs &amp; Society</div>
+  <div class="teaching-course"><strong>SOC357:</strong> Race, Crime &amp; Criminal Justice</div>
+</div>
