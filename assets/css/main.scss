@@ -20,6 +20,14 @@ body { background: #fff; color: #242424; }
 .page__title, .page__content h2, .page__content h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; }
 .page__title { font-size: 2.3rem; margin-bottom: 1.25rem; }
 .page__content { font-family: Georgia, "Times New Roman", serif; font-size: 1rem; line-height: 1.85; }
+/* A modern, readable typeface for the homepage introduction only. */
+.page__content .homepage-introduction {
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-size: 1.09rem;
+  font-weight: 400;
+  line-height: 1.85;
+  letter-spacing: 0.005em;
+}
 .page__content h2 { margin-top: 2rem; padding-bottom: .5rem; border-bottom: 1px solid #e7e4df; font-size: 1.45rem; }
 .page__content a { color: #486a73; text-decoration: none; }
 .page__content a:hover { text-decoration: underline; }
