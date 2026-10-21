@@ -4,6 +4,12 @@
 
 <!-- end custom head snippets -->
 
+{% if page.url == '/' %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500&amp;display=swap" rel="stylesheet">
+{% endif %}
+
 {% if page.url contains '/research/' %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
