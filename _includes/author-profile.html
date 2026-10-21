@@ -15,5 +15,9 @@
     {% endif %}
     {% endfor %}
   </div>
-  <meta itemprop="name" content="{{ author.name | escape }}">
+  <div class="author__content">
+    <meta itemprop="name" content="{{ author.name | escape }}">
+    <div class="author__bio p-note">{{ author.bio | markdownify }}</div>
+    {% if author.location %}<p class="profile-location">{{ author.location }}</p>{% endif %}
+  </div>
 </div>
