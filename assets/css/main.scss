@@ -93,3 +93,29 @@ body { background: #fff; color: #242424; }
  .research-block { padding: 22px; }
  .page__content .research-topic > h2 { font-size: 24px; }
 }
+
+/* Research theme gallery and article detail pages. */
+.research-gallery-intro, .research-back { color: #646d70; font: 16px/1.7 "Inter", Arial, sans-serif; }
+.research-gallery { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 28px; margin-top: 28px; }
+.page__content a.research-gallery-card { display: flex; flex-direction: column; border: 1px solid #d7d7d2; border-radius: 8px; overflow: hidden; color: #202526; text-decoration: none; background: #fff; transition: border-color .2s, box-shadow .2s, transform .2s; }
+.page__content a.research-gallery-card:hover, .page__content a.research-gallery-card:focus-visible { border-color: #758b87; box-shadow: 0 8px 24px #233e3910; transform: translateY(-3px); text-decoration: none; }
+.research-card-art { padding: 10px 28px; background: #eaf0ed; color: #648177; }
+.research-card-art svg { display: block; width: 100%; height: 140px; }
+.research-gallery-card.life .research-card-art { background: #f3ece6; color: #a48265; }
+.research-gallery-card.pain .research-card-art { background: #e9eef3; color: #6b8199; }
+.research-gallery-card.other .research-card-art { background: #eeebf1; color: #8d7b99; }
+.research-card-copy { padding: 25px 28px 28px; display: flex; flex-direction: column; flex: 1; }
+.research-card-number { color: #87928d; font: 12px/1.4 "Inter", Arial, sans-serif; letter-spacing: .12em; }
+.page__content .research-gallery-card h2 { font: 700 23px/1.45 "Noto Serif", Georgia, serif; border: none; padding: 0; margin: 10px 0 15px; }
+.research-card-copy p { font: 15px/1.8 "Inter", Arial, sans-serif; color: #646d70; margin: 0 0 24px; }
+.research-card-action { margin-top: auto; font: 600 14px/1.5 "Inter", Arial, sans-serif; color: #3e6058; }
+.research-article-list { max-width: 850px; margin: 26px auto 0; font: 16px/1.8 "Noto Serif", Georgia, serif; }
+.research-theme-intro { color: #646d70; margin-bottom: 28px; }
+.research-article-list .research-publication { font: 16px/1.7 "Noto Serif", Georgia, serif; color: #111; margin-bottom: 26px; }
+@media (max-width: 650px) {
+ .research-gallery { grid-template-columns: minmax(0,1fr); gap: 22px; }
+ .research-card-art svg { height: 115px; }
+ .research-card-copy { padding: 22px; }
+ .page__content .research-gallery-card h2 { font-size: 21px; }
+}
+@media (prefers-reduced-motion: reduce) { .page__content a.research-gallery-card { transition: none; } }
