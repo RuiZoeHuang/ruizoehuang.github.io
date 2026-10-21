@@ -62,15 +62,7 @@ body { background: #fff; color: #242424; }
 .profile-button { display: inline-flex; align-items: center; gap: .3rem; padding: .4rem .55rem; border: 1px solid #cfd7d9; border-radius: 3px; color: #38535c !important; font: .65rem/1.35 Arial, sans-serif; text-decoration: none; }
 .profile-button:hover, .profile-button:focus-visible { background: #edf3f4; text-decoration: none; }
 .academic-profile .author__name { margin-bottom: .6rem; font-family: Georgia, serif; font-size: 1.15rem; font-weight: 500; }
-.academic-profile .author__bio,
-.academic-profile .author__bio p {
-  font-family: "Inter", "Segoe UI", Arial, sans-serif;
-  font-size: .95rem;
-  font-weight: 400;
-  line-height: 1.55;
-  color: #3e484d;
-}
-.academic-profile .author__bio p { margin: 0 0 .95rem; }
+.academic-profile .author__bio { font: .75rem/1.7 Arial, sans-serif; color: #585f63; }
 .profile-location { color: #767d80; font: .68rem/1.5 Arial, sans-serif; }
 /* No visible site footer, including on research and teaching pages. */
 #footer.page__footer,
